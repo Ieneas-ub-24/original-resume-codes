@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ieneas Moreno's Resume</title>
+    <style>
+        body {
+            font-family: Times New Roman, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #bfc8cd; /* Satin grey background */
+            color: #333;
+        }
+        h1 {
+            color: #007BFF;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            margin-left: 10px;
+            vertical-align: middle;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            max-width: 100%; /* Responsive image */
+            height: auto; /* Maintain aspect ratio */
+        }
+        p {
+            margin-bottom: 15px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        table {
+            width: 100%;
+            max-width: 800px;
+            margin: 20px auto;
+            border-collapse: collapse;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: white;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: 
+</html>;
+        }
+        @media (max-width: 600px) {
+            table {
+                font-size: 16px;
+            }
+            img {
+                width: 40px; /* Adjust image size for mobile */
+            }
+        }
+    </style>
+</head>
+<body>
+
+<h1>Ieneas Moreno</h1>
+<p> <a href="https://github.com/Ieneas-ub-24" target="_blank">github account</a></p>
+<p>
+    My name is Ieneas Moreno, and I am a student at the 
+    <a href="https://www.ub.edu.bz" target="_blank">University of Belize</a>.
+    <img src="https://assets.onecompiler.app/42rx5rpy4/42u236w85/Screenshot%202024-10-03%20095459.png" alt="University of Belize Logo">
+</p>
+
+<p>
+    I am an associate student in the IT course. For my first semester, I am taking six classes: 
+    Fundamentals of Computing, Critical Thinking, Programming, English, Trigonometry, and Algebra.
+    I've been living in Belmopan for over 14 years, while I was raised in Corozal for 3 years.
+</p>
+
+<p>
+    I chose to major in Information Technology mainly because I like dealing with computers, along with the vast demand in the field of technology, which also means better career opportunities.
+</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weekly Schedule</title>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+<h1>Weekly Schedule</h1>
+<table>
+    <tr>
+        <th>Day</th>
+        <th>Time</th>
+        <th>Activity</th>
+    </tr>
+    <tr>
+        <td>Monday</td>
+        <td>9:00am - 10:45am</td>
+        <td>English Class</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>12:00pm - 1:45pm</td>
+        <td>Programming Class</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>5:00pm - 6:45pm</td>
+        <td>Algebra</td>
+    </tr>
+    <tr>
+        <td>Tuesday</td>
+        <td>9:00am - 10:45am</td>
+        <td>Computing</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>11:00am - 12:30pm</td>
+        <td>Trigonometry</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2:00pm - 3:20pm</td>
+        <td>Critical Thinking</td>
+    </tr>
+    <tr>
+        <td>Wednesday</td>
+        <td>9:00am - 10:45am</td>
+        <td>English Class</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>12:00pm - 1:45pm</td>
+        <td>Programming Class</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>5:00pm - 6:45pm</td>
+        <td>Algebra</td>
+    </tr>
+    <tr>
+        <td>Thursday</td>
+        <td>9:00am - 10:45am</td>
+        <td>Computing</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>11:00am - 12:30pm</td>
+        <td>Trigonometry</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2:00pm - 3:20pm</td>
+        <td>Critical Thinking</td>
+    </tr>
+    <tr>
+        <td>Friday</td>
+        <td colspan="2">Study Day</td>
+    </tr>
+    <tr>
+        <td>Saturday</td>
+        <td colspan="2">Rest Day</td>
+    </tr>
+    <tr>
+        <td>Sunday</td>
+        <td colspan="2">Rest Day</td>
+    </tr>
+</table>
+</body>
+</html>
+
+<button class="button" onclick="window.location.href='calculator.html';">Go to Calculator</button>
+
+</body>
+</html>
